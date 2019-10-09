@@ -4,7 +4,7 @@ collection: teaching
 type: "TP de sécurité informatique pour les étudiants en 4ème année"
 permalink: /teaching/Polytech-securite
 venue: "Polytech, Université Paris-Sud"
-date: 2016-2019
+date: 2016-03-12
 location: "Orsay, France"
 ---
 

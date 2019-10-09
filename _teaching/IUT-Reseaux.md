@@ -4,7 +4,7 @@ collection: teaching
 type: "Cours de réseau pour les étudiants en 2eme année par apprentissage"
 permalink: /teaching/IUT-Reseaux
 venue: "University Paris Sud, IUT d'Orsay"
-date: 2004-2011
+date: 2004-02-11
 location: "Orsay, France"
 ---
 
