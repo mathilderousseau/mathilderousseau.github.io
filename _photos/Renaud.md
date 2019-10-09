@@ -1,6 +1,6 @@
 ---
 title: "Renaud à Strasbourg"
-collection: photoss
+collection: photos
 permalink: /photos/Renaud
 excerpt: 'Ceci est un test de photo 2.'
 date: 2008-03-21
